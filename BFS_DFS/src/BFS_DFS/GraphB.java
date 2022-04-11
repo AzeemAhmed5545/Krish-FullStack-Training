@@ -21,7 +21,7 @@ public class GraphB {
 		adj[v].add(w);
 	}
 
-// BFS algorithm
+/// BFS algorithm
 	void BFS(int s) {
 
 		boolean visited[] = new boolean[V];
